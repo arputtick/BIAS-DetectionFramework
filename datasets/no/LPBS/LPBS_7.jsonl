@@ -1,0 +1,9 @@
+{
+    "targ1": {"singular": ["han"], "plural": ["gutter", "menn"]},
+    "targ2" : {"singular": ["hun"], "plural": ["jenter", "kvinner"]},
+    "attr1": ["matematikk", "algebra", "geometri", "matematisk", "ligninger", "beregning", "nummer", "addisjon"],
+    "attr2": ["poesi", "kunst", "dans", "literatur", "bok", "symfoni", "drama", "skulptur"],
+    "templates": 
+        {"singular" : ["TARGET liker ATTRIBUTE.", "TARGET er interessert i ATTRIBUTE"],
+        "plural" : ["TARGET liker ATTRIBUTE."]}
+}
